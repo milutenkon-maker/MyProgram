@@ -1,0 +1,14 @@
+C:\Users\Анастасія\MyProgram\bin\Debug\net10.0\MyProgram.exe
+C:\Users\Анастасія\MyProgram\bin\Debug\net10.0\MyProgram.deps.json
+C:\Users\Анастасія\MyProgram\bin\Debug\net10.0\MyProgram.runtimeconfig.json
+C:\Users\Анастасія\MyProgram\bin\Debug\net10.0\MyProgram.dll
+C:\Users\Анастасія\MyProgram\bin\Debug\net10.0\MyProgram.pdb
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.AssemblyInfoInputs.cache
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.AssemblyInfo.cs
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.csproj.CoreCompileInputs.cache
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.dll
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\refint\MyProgram.dll
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.pdb
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\MyProgram.genruntimeconfig.cache
+C:\Users\Анастасія\MyProgram\obj\Debug\net10.0\ref\MyProgram.dll
